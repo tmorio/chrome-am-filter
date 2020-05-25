@@ -1,0 +1,23 @@
+{
+	"manifest_version": 2,
+	"author": "tmorio",
+	"homepage_url": "http://moritoworks.com",
+	"name": "熱帯雨林フィルタ",
+	"description": "Amazonで検索後、クリックでAmazon以外が販売する商品を除外するツールです。",
+	"version": "1.0",
+	"icons": {
+		"32": "icon.png",
+		"48": "icon.png",
+		"128": "icon.png"
+	},
+	"browser_action": {
+		"default_icon": {
+			"19": "icon.png"
+		},
+		"default_popup": "popup.html"
+	},
+	"permissions": [
+		"contextMenus",
+		"tabs"
+    ]
+}
