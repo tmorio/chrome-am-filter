@@ -15,7 +15,6 @@ try {
 window.onload = function() {
     chrome.tabs.getSelected(null, function(tab) {
         nowURL = tab.url;
-        console.log(tab.url);
     });
 };
 
@@ -25,8 +24,6 @@ filterAMProduct.onclick = function() {
     });
 
     let newURL = nowURL + "&emi=AN1VRQENFRJN5"
-    console.log(newURL);
-
     chrome.tabs.getSelected(null,function(tab)
     {
       chrome.tabs.remove(tab.id);
