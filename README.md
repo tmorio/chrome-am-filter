@@ -10,6 +10,6 @@ Amazonで検索後、2クリックでAmazon以外が販売する商品を除外�
 ## その他
 完全に個人用で作ったので、クオリティは期待しないでください。  
 
-2020/6/27 追記  
+## 2020/6/27 追記  
 Chrome Web Storeで公開を始めました。  
 [熱帯雨林フィルタ - Chrome Web Store](https://chrome.google.com/webstore/detail/mcebidbgdlfebjbnkkpfbdclngmaando/)
